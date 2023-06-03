@@ -6,6 +6,13 @@ Olá, meu nome e Kevyn Silva. Sou formando em Análise e Desenvolvimento de Sist
 
 Sou uma pessoa que gosta de se aventurar em novos desafios e aprender mais. Disposto sempre em ajudar quem precisa, e com isso aprendendo mais ainda.
 
+<div align='center'>
+    
+ [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-7E4798?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:kevynsilva42@gmail.com)
+ [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/offkevyn/)
+</div>
+
+
 ## ⚙️ Linguagens e Ferramentas
 - Linguagens e framework
 <p align="left">
@@ -138,3 +145,4 @@ Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a V
  [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
 
 ---
+<div>
