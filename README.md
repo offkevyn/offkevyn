@@ -1,6 +1,12 @@
 ## 👤 Offkevyn
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84048E&height=200&section=header&text=Bem%20Vindo!!&fontSize=40&fontColor=EFC4F4" />
 
+<div align='center'>
+    
+ ![senku gif](senku.gif)
+</div>
+
+<br/>
 
 Olá, meu nome e Kevyn Silva. Sou formando em Análise e Desenvolvimento de Sistemas. Atualmente desenvolvendo apps com `Flutter` e aplicações web com `Laravel`. Sempre estudando e aprofundando os meus conhecimentos.
 
@@ -146,3 +152,5 @@ Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a V
 
 ---
 <div>
+    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84048E&height=120&section=footer"/>
