@@ -126,8 +126,8 @@ Sou uma pessoa que gosta de se aventurar em novos desafios e aprender mais. Disp
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40"
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40"
             height="40" />
     </a>
     <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
