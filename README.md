@@ -158,6 +158,12 @@ Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a V
  [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
 
 ---
+
+<a href="https://discord.com/users/439143654087458817" target="_blank" rel="nofollow">
+        
+[![Discord Presence](https://lanyard.cnrad.dev/api/439143654087458817)](https://discord.com/users/439143654087458817)
+</a>
+
 <div>
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84048E&height=120&section=footer"/>
