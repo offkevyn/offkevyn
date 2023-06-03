@@ -101,6 +101,9 @@ Sou uma pessoa que gosta de se aventurar em novos desafios e aprender mais. Disp
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
     </a>
+    <a href="https://trello.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40" />
+    </a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" width="40"
             height="40" />
@@ -125,6 +128,10 @@ Sou uma pessoa que gosta de se aventurar em novos desafios e aprender mais. Disp
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="git" width="40"
+            height="40" />
+    </a>
+    <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40"
             height="40" />
     </a>
 </p>
