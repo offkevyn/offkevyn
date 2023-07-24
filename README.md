@@ -143,21 +143,12 @@ Sou uma pessoa que gosta de se aventurar em novos desafios e aprender mais. Disp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=offkevyn&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 👨‍💻 Vacuum Discord
-
-Atualmente atuo como Moderador Lead na [Vacuum](https://discord.gg/vacuum), onde sou responsável por coordenar toda a equipe de moderadores da comunidade. A Vacuum é um espaço dedicado à programação e tecnologia, especialmente voltado para auxiliar desenvolvedores que estão iniciando suas jornadas. Nosso objetivo é oferecer orientação, projetos em equipe e um ambiente colaborativo de aprendizado. 
-
-Sinta-se livre para entrar em contato comigo caso tenha alguma dúvida sobre a Vacuum ou queira participar da comunidade.
 
 <div align='center'>
+    
+##
 
- [![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VacuumORG)
- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
- [![Github](https://custom-icon-badges.demolab.com/badge/-Github-181717?style=for-the-badge&logo=github)](https://github.com/VacuumORG)
-
- [![Discord Invite](https://invidget.switchblade.xyz/vacuum)](http://discord.gg/vacuum)
-
----
+</br> </br>
 
 <a href="https://discord.com/users/439143654087458817" target="_blank" rel="nofollow">
         
